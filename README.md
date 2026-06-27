@@ -14,8 +14,6 @@ Projeto desenvolvido para comparar abordagens de algoritmos vistas na disciplina
 ## Arquivos
 
 - `fibonacci_comparacao.py`: codigo principal com os experimentos.
-- `Trabalho C3 - Complexidade de Algoritmos.md`: texto do trabalho/relatorio.
-- `LICENSE`: licenca do repositorio.
 
 ## Requisitos
 
