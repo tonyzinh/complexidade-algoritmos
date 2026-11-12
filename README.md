@@ -6,11 +6,6 @@ Projeto desenvolvido para comparar abordagens de algoritmos vistas na disciplina
 - Fibonacci com programacao dinamica.
 - Problema da Mochila 0/1 como exemplo de problema NP-Completo.
 
-## Integrantes
-
-- Entony Jovino dos Santos
-- Raphael Simoes Gomes
-
 ## Arquivos
 
 - `fibonacci_comparacao.py`: codigo principal com os experimentos.
